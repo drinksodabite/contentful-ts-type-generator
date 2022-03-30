@@ -8,7 +8,7 @@
 2. Install this repository into your node project
 
 ```
-npm install github:arimkevi/contentful-ts-type-generator
+npm install github:drinksodabite/contentful-ts-type-generator
 ```
 
 3. Run the script to get help options
